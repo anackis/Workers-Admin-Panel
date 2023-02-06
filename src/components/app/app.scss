@@ -2,3 +2,9 @@
   margin: 0 auto; 
   max-width: 1000px;
 }
+
+body {
+  background: rgb(68,68,68);
+background: linear-gradient(201deg, rgba(68,68,68,1) 6%, rgba(152,152,152,1) 30%, rgba(255,255,255,1) 49%, rgba(203,203,203,1) 64%, rgba(68,68,68,1) 91%);
+height: 100vh;
+}
